@@ -1,0 +1,7 @@
+C:\AprendendoCSharp\OpcionalIf\bin\Debug\OpcionalIf.exe.config
+C:\AprendendoCSharp\OpcionalIf\bin\Debug\OpcionalIf.exe
+C:\AprendendoCSharp\OpcionalIf\bin\Debug\OpcionalIf.pdb
+C:\AprendendoCSharp\OpcionalIf\obj\Debug\OpcionalIf.csprojAssemblyReference.cache
+C:\AprendendoCSharp\OpcionalIf\obj\Debug\OpcionalIf.csproj.CoreCompileInputs.cache
+C:\AprendendoCSharp\OpcionalIf\obj\Debug\OpcionalIf.exe
+C:\AprendendoCSharp\OpcionalIf\obj\Debug\OpcionalIf.pdb
