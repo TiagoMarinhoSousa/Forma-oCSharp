@@ -1,0 +1,7 @@
+C:\CSharp\03-HerancaEInterface\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.exe.config
+C:\CSharp\03-HerancaEInterface\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.exe
+C:\CSharp\03-HerancaEInterface\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.pdb
+C:\CSharp\03-HerancaEInterface\ByteBank\01-ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\CSharp\03-HerancaEInterface\ByteBank\01-ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\CSharp\03-HerancaEInterface\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.exe
+C:\CSharp\03-HerancaEInterface\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.pdb
