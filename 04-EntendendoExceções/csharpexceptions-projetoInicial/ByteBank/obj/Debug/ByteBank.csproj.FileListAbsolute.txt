@@ -1,0 +1,7 @@
+C:\CSharp\04-EntendendoExceções\csharpexceptions-projetoInicial\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\CSharp\04-EntendendoExceções\csharpexceptions-projetoInicial\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\CSharp\04-EntendendoExceções\csharpexceptions-projetoInicial\ByteBank\bin\Debug\ByteBank.exe.config
+C:\CSharp\04-EntendendoExceções\csharpexceptions-projetoInicial\ByteBank\bin\Debug\ByteBank.exe
+C:\CSharp\04-EntendendoExceções\csharpexceptions-projetoInicial\ByteBank\bin\Debug\ByteBank.pdb
+C:\CSharp\04-EntendendoExceções\csharpexceptions-projetoInicial\ByteBank\obj\Debug\ByteBank.exe
+C:\CSharp\04-EntendendoExceções\csharpexceptions-projetoInicial\ByteBank\obj\Debug\ByteBank.pdb
